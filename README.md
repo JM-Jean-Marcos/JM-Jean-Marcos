@@ -20,5 +20,5 @@ Transformando linhas de código em experiências visuais memoráveis - porque no
 
 Meu Plano é mais para frente estudar back end e entender como funciona por traz do front!
 
-
+### Email para contato: jianmarcos77@gmail.com
 
